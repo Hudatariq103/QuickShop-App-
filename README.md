@@ -53,6 +53,16 @@ Create a folder named `screenshots` in the project root and add your screenshots
 
 ![Splash Screen](screenshots/splash.png)
 
+## 📧 Email Screenshots
+
+Here are some screenshots of the emails related to the project:
+
+<p align="center">
+  <img src="screenshots/image-1.png" width="30%" />
+  <img src="screenshots/image-2.png" width="30%" />
+  <img src="screenshots/image-3.png" width="30%" />
+</p>
+
 ---
 
 ## 🌟 Features
